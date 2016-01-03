@@ -1,0 +1,22 @@
+
+body {
+  padding: 5%;
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('https://s-media-cache-ak0.pinimg.com/236x/be/2a/94/be2a940c4ac312bf5abc0aa9677749de.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  margin: auto;
+}
+
+.body {
+  width: 30%;
+  padding: 8%;
+  margin: auto;
+  text-align: center;
+  background: rgba(255,255,255,0.25);  
+  border-radius: 10%;
+  color: white;
+  font-family: Helvetica;
+  font-weight: 50px;
+}
